@@ -77,7 +77,29 @@ permalink: /
   </div>
 </div>
 
-
+<div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
+  <div class="btn text"><div class="btn name">10 - Software Architecture</div>
+    <div class="row" style="grid-template-columns: 1fr 5fr;">
+      <a class="btn box2">27</a><a href="/01-MSDS/DS27/" class="btn box1">Software Fundamentals</a>
+      <a class="btn box2">28</a><a href="/01-MSDS/DS28/" class="btn box1">Software Patterns</a>
+      <a class="btn box2">29</a><a href="/01-MSDS/DS29/" class="btn box1">Software Applications</a>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">11 - Quality Improvement</div>
+    <div class="row" style="grid-template-columns: 1fr 5fr;">
+      <a class="btn box2">30</a><a href="/01-MSDS/DS30/" class="btn box1">Quality Statistics</a>
+      <a class="btn box2">31</a><a href="/01-MSDS/DS31/" class="btn box1">Stability & Capability</a>
+      <a class="btn box2">32</a><a href="/01-MSDS/DS32/" class="btn box1">Measurement System</a>
+    </div>
+  </div>
+  <div class="btn text"><div class="btn name">12 - Statistical Learning</div>
+    <div class="row" style="grid-template-columns: 1fr 5fr;">
+      <a class="btn box2">33</a><a href="/01-MSDS/DS33/" class="btn box1">Regression & Classification</a>
+      <a class="btn box2">34</a><a href="/01-MSDS/DS34/" class="btn box1">Model Optimization</a>
+      <a class="btn box2">35</a><a href="/01-MSDS/DS35/" class="btn box1">Advanced Model</a>
+    </div>
+  </div>
+</div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">09 - Software Architecture</div>
