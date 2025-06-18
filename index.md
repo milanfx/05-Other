@@ -8,24 +8,24 @@ permalink: /
   <div class="btn text">
     <div class="btn name">01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">01</a><a href="/01-MSDS/DS01/" class="btn box11">Searching Sorting</a>
-      <a class="btn box1">02</a><a href="/01-MSDS/DS02/" class="btn box11">Trees Graphs</a>
-      <a class="btn box1">03</a><a href="/01-MSDS/DS03/" class="btn box11">Dynamic Programming</a>
+      <a class="btn box1">01</a><a href="/01-MSDS/DS01/" class="btn box2">Searching Sorting</a>
+      <a class="btn box1">02</a><a href="/01-MSDS/DS02/" class="btn box2">Trees Graphs</a>
+      <a class="btn box1">03</a><a href="/01-MSDS/DS03/" class="btn box2">Dynamic Programming</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">02 - Advanced Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">04</a><a href="/01-MSDS/DS04/" class="btn box11">Linear Programming</a>
-      <a class="btn box1">05</a><a href="/01-MSDS/DS05/" class="btn box11">Quantum Algorithms</a>
+      <a class="btn box1">04</a><a href="/01-MSDS/DS04/" class="btn box2">Linear Programming</a>
+      <a class="btn box1">05</a><a href="/01-MSDS/DS05/" class="btn box2">Quantum Algorithms</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">03 - Machine Learning Theory</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">06</a><a href="/01-MSDS/DS06/" class="btn box11">Supervised Learning</a>
-      <a class="btn box1">07</a><a href="/01-MSDS/DS07/" class="btn box11">Unsupervised Learning</a>
-      <a class="btn box1">08</a><a href="/01-MSDS/DS08/" class="btn box11">Deep Learning</a>
+      <a class="btn box1">06</a><a href="/01-MSDS/DS06/" class="btn box2">Supervised Learning</a>
+      <a class="btn box1">07</a><a href="/01-MSDS/DS07/" class="btn box2">Unsupervised Learning</a>
+      <a class="btn box1">08</a><a href="/01-MSDS/DS08/" class="btn box2">Deep Learning</a>
     </div>
   </div>
 </div>
@@ -34,25 +34,25 @@ permalink: /
   <div class="btn text">
     <div class="btn name">04 - Statistical Inference</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">09</a><a href="/01-MSDS/DS09/" class="btn box11">Probability Theory</a>
-      <a class="btn box1">10</a><a href="/01-MSDS/DS10/" class="btn box11">Parametric Estimation</a>
-      <a class="btn box1">11</a><a href="/01-MSDS/DS11/" class="btn box11">Hypothesis Testing</a>
+      <a class="btn box2">09</a><a href="/01-MSDS/DS09/" class="btn box1">Probability Theory</a>
+      <a class="btn box2">10</a><a href="/01-MSDS/DS10/" class="btn box1">Parametric Estimation</a>
+      <a class="btn box2">11</a><a href="/01-MSDS/DS11/" class="btn box1">Hypothesis Testing</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">05 - Statistical Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">12</a><a href="/01-MSDS/DS12/" class="btn box11">Linear Regression</a>
-      <a class="btn box1">13</a><a href="/01-MSDS/DS13/" class="btn box11">ANOVA Experiment</a>
-      <a class="btn box1">14</a><a href="/01-MSDS/DS14/" class="btn box11">Nonlinear Regression</a>
+      <a class="btn box2">12</a><a href="/01-MSDS/DS12/" class="btn box1">Linear Regression</a>
+      <a class="btn box2">13</a><a href="/01-MSDS/DS13/" class="btn box1">ANOVA Experiment</a>
+      <a class="btn box2">14</a><a href="/01-MSDS/DS14/" class="btn box1">Nonlinear Regression</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">06 - Data Mining Foundations</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">15</a><a href="/01-MSDS/DS15/" class="btn box11">DataMining Pipeline</a>
-      <a class="btn box1">16</a><a href="/01-MSDS/DS16/" class="btn box11">DataMining Method</a>
-      <a class="btn box1">17</a><a href="/01-MSDS/DS17/" class="btn box11">DataMining Projects</a>
+      <a class="btn box2">15</a><a href="/01-MSDS/DS15/" class="btn box1">DataMining Pipeline</a>
+      <a class="btn box2">16</a><a href="/01-MSDS/DS16/" class="btn box1">DataMining Method</a>
+      <a class="btn box2">17</a><a href="/01-MSDS/DS17/" class="btn box1">DataMining Projects</a>
     </div>
   </div>
 </div>
