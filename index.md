@@ -8,12 +8,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box1">01</a>
-      <a href="/01-MSDS/DS01/" class="btn box11">Searching Sorting</a>
-      <a class="btn box1">02</a>
-      <a href="/01-MSDS/DS01/" class="btn box11">Trees Graphs</a>
-      <a class="btn box1">03</a>
-      <a href="/01-MSDS/DS01/" class="btn box11">Dynamic Programming</a>
+      <a class="btn box1">01</a><a href="/01-MSDS/DS01/" class="btn box11">Searching Sorting</a>
+      <a class="btn box1">02</a><a href="/01-MSDS/DS01/" class="btn box11">Trees Graphs</a>
+      <a class="btn box1">03</a><a href="/01-MSDS/DS01/" class="btn box11">Dynamic Programming</a>
     </div>
   </div>
   <div class="btn text">
