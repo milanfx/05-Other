@@ -1,12 +1,12 @@
 ---
 layout: page
-title: MSDS Courses
+title: Other
 permalink: /
 ---
 
-<div class="block" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">01 - Data Structures & Algorithms</div>
+    <div class="btn name">01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS01/" class="btn box1"><span class="btn box11">01</span>Searching<br>Sorting</a>
       <a href="/01-MSDS/DS02/" class="btn box1"><span class="btn box11">02</span>Trees<br>Graphs</a>
@@ -14,15 +14,12 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">02 - Advanced Data Algorithms</div>
+    <div class="btn name">02 - Advanced Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS04/" class="btn box1"><span class="btn box11">04</span>Linear<br>Programming</a>
       <a href="/01-MSDS/DS05/" class="btn box1"><span class="btn box11">05</span>Quantum<br>Algorithms</a>
     </div>
   </div>
-</div>
-
-<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">03 - Statistical Inference</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -31,6 +28,10 @@ permalink: /
       <a href="/01-MSDS/DS08/" class="btn box2"><span class="btn box22">08</span>Hypothesis<br>Testing</a>
     </div>
   </div>
+</div>
+
+<div class="block" style="grid-template-columns: 1fr 1fr;">
+
   <div class="btn text">
     <div class="btn name">04 - Statistical Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
