@@ -54,25 +54,25 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text"><div class="btn name">07 - Databases for DS</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">18</a><a href="/01-MSDS/DS18/" class="btn box1">Relational<br>Database</a>
-      <a class="btn box2">19</a><a href="/01-MSDS/DS19/" class="btn box1">SQL<br>Operation</a>
-      <a class="btn box2">20</a><a href="/01-MSDS/DS20/" class="btn box1">Advanced<br>Database</a>
+      <a class="btn box2">18</a><a href="/01-MSDS/DS18/" class="btn box1">Relational Database</a>
+      <a class="btn box2">19</a><a href="/01-MSDS/DS19/" class="btn box1">SQL Operation</a>
+      <a class="btn box2">20</a><a href="/01-MSDS/DS20/" class="btn box1">Advanced Database</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">08 - Vital Skills for DS</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">21</a><a href="/01-MSDS/DS21/" class="btn box1">DataScience<br>Field</a>
-      <a class="btn box2">22</a><a href="/01-MSDS/DS22/" class="btn box1">Cyber<br>Security</a>
-      <a class="btn box2">23</a><a href="/01-MSDS/DS23/" class="btn box1">Ethical<br>Issues</a>
-      <a class="btn box2">24</a><a href="/01-MSDS/DS24/" class="btn box1">Data<br>Visualization</a>
+      <a class="btn box2">21</a><a href="/01-MSDS/DS21/" class="btn box1">DataScience Field</a>
+      <a class="btn box2">22</a><a href="/01-MSDS/DS22/" class="btn box1">Cyber Security</a>
+      <a class="btn box2">23</a><a href="/01-MSDS/DS23/" class="btn box1">Ethical Issues</a>
+      <a class="btn box2">24</a><a href="/01-MSDS/DS24/" class="btn box1">Data Visualization</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">09 - Effective Communication</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">25</a><a href="/01-MSDS/DS25/" class="btn box1">Business<br>Writing</a>
-      <a class="btn box2">26</a><a href="/01-MSDS/DS26/" class="btn box1">Graphic<br>Design</a>
-      <a class="btn box2">27</a><a href="/01-MSDS/DS27/" class="btn box1">Public<br>Presentation</a>
-      <a class="btn box2">28</a><a href="/01-MSDS/DS28/" class="btn box1">Capstone<br>Project</a>
+      <a class="btn box2">25</a><a href="/01-MSDS/DS25/" class="btn box1">Business Writing</a>
+      <a class="btn box2">26</a><a href="/01-MSDS/DS26/" class="btn box1">Graphic Design</a>
+      <a class="btn box2">27</a><a href="/01-MSDS/DS27/" class="btn box1">Public Presentation</a>
+      <a class="btn box2">28</a><a href="/01-MSDS/DS28/" class="btn box1">Capstone Project</a>
     </div>
   </div>
 </div>
